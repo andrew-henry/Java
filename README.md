@@ -1,2 +1,2 @@
 # Java
-A collection of Java projects and algorithms
+* A collection of Java projects and algorithms
